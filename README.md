@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abisam Hazim</h1>
-<h3 align="center">I'm a IT student, My expertise is to create and Websites design, graphic design and many more..</h3>
+<h3 align="center">I'm a IT student, My expertise is to develop website and creating websites design, graphic design and many more..</h3>
 
 - 🌱 I’m currently learning **React, vue, and Laravel**
 
