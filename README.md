@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abisam Hazim</h1>
 <h3 align="center">I'm a IT student, My expertise is to develop website and creating websites design, graphic design and many more..</h3>
 
-- 🌱 I’m currently learning **React, vue, and Laravel**
+- 🌱 I’m currently learning **React, Next.JS, and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://personal-site-abisam-hazim.netlify.app/](https://personal-site-abisam-hazim.netlify.app/)
 
