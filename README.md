@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Next.JS, and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://personal-site-abisam-hazim.netlify.app/](https://personal-site-abisam-hazim.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abisam-portfolio.vercel.app/](https://abisam-portfolio.vercel.app/))
 
 - 💬 Ask me about **Website Development**
 
