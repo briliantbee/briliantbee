@@ -12,14 +12,6 @@ keep improving my skills, and love working together in a team. 🚀
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 A junior web developer & active student  
-- 🌱 Currently learning **Next.js, Laravel, and TailwindCSS**  
-- 💡 Passionate about clean code & great UI/UX  
-- 🤝 Love working in a team and sharing knowledge  
-
----
-
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/briliantbee) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biscuitsam__) 
