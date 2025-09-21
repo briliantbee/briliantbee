@@ -1,6 +1,7 @@
 ![Header Banner](./github-header-banner.png)
 
 👋 Hi, I’m a junior web developer and also an active student.
+
 I enjoy learning new things and turning ideas into simple, useful websites.
 Most of the time I’m exploring how to make apps look good, run smoothly,
 and give a nice experience for people who use them.
