@@ -36,10 +36,9 @@ keep improving my skills, and love working together in a team. 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jongkodingabi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongkodingabi&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jongkodingabi&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
