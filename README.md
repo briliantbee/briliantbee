@@ -46,8 +46,8 @@ keep improving my skills, and love working together in a team. 🚀
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abisamhazim&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisamhazim&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jongkodingabi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongkodingabi&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
 </div>
 
 ---
