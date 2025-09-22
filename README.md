@@ -13,7 +13,7 @@ keep improving my skills, and love working together in a team. 🚀
 ---
 <div align="center">
 ## 🌐 Socials
-
+<br>
 <p align="center">
   <a href="https://instagram.com/username" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -35,7 +35,7 @@ keep improving my skills, and love working together in a team. 🚀
 
 <div align="center">
 ## 🛠 Tech Stack
-
+<br>
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
