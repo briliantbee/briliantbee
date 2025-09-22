@@ -51,7 +51,7 @@ keep improving my skills, and love working together in a team. 🚀
 
 <div align="center">
 ## 📈 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jongkodingabi&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=briliantbee&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
