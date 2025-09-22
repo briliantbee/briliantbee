@@ -11,18 +11,19 @@ Even though I’m still in the learning stage, I always try to write clean code,
 keep improving my skills, and love working together in a team. 🚀  
 
 ---
-
+<div align="center">
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/briliantbee) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biscuitsam__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abisam-hazim-5853b4345/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abisamhazim?si=keYpsH48nCNdOWhd) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abisamhazim04@gmail.com)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abisamhazim04@gmail.com)
+</div>
 
 ---
 
-## 🛠 Tech Stack
 <div align="center">
+## 🛠 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -42,7 +43,8 @@ keep improving my skills, and love working together in a team. 🚀
 </div>
 
 ---
-
-✨ *"Keep learning, keep building, and stay curious."* 🚀  
+<div align="center">
+✨ *"Keep learning, keep building, and stay curious."* 🚀
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
